@@ -1,0 +1,16 @@
+{
+  "name": "amy",
+  "version": "1.0.0",
+  "description": "微信公众号[放羊的艾米]",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "server": "webpack-dev-server --open"
+  },
+  "author": "amy",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.6",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
